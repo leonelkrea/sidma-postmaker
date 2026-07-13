@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face { font-family: 'Luxia'; src: url('{{ASSETS_PATH}}/Luxia-Display.otf') format('opentype'); font-weight: 400 900; font-display: block; }
+@font-face { font-family: 'Montserrat'; src: url('{{ASSETS_PATH}}/Montserrat.ttf') format('truetype'); font-weight: 100 900; font-display: block; }
+:root {
+  --navy: #0C1657; --navy-deep: #080F3D; --green: #00BF90;
+  --white: #FFFFFF; --soft: rgba(255,255,255,.72); --faint: rgba(255,255,255,.14); --greenline: rgba(0,191,144,.34);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 1080px; height: 1350px; overflow: hidden; background: #000; }
+
+.slide {
+  width: 1080px; height: 1350px; position: relative;
+  background:
+    radial-gradient(100% 60% at 50% 100%, rgba(0,191,144,.28) 0%, rgba(4,141,127,.08) 46%, transparent 70%),
+    linear-gradient(168deg, var(--navy) 0%, var(--navy-deep) 100%);
+  padding: 76px 81px;
+  display: flex; flex-direction: column;
+  color: var(--white); font-family: 'Montserrat', sans-serif; overflow: hidden;
+}
+.slide::before {
+  content: ''; position: absolute; inset: 43px;
+  border: 1px solid var(--faint); border-radius: 10px; pointer-events: none;
+}
+.slide::after {
+  content: ''; position: absolute; top: 43px; left: 43px; width: 108px; height: 3px; background: var(--green);
+}
+.top {
+  font-size: 29px; letter-spacing: .22em; text-transform: uppercase;
+  color: var(--soft); font-weight: 600; position: relative; z-index: 2;
+}
+.body {
+  flex: 1; display: flex; flex-direction: column; justify-content: center;
+  gap: 44px; position: relative; z-index: 2;
+}
+.mark {
+  font-family: 'Luxia', serif; font-size: 180px; line-height: .6;
+  color: var(--green); opacity: .35;
+}
+.quote {
+  font-family: 'Luxia', serif; font-weight: 400;
+  font-size: 72px; line-height: 1.12; color: #fff;
+}
+.rule { height: 2px; background: var(--greenline); width: 100%; }
+.attribution { font-size: 34px; color: var(--soft); font-weight: 500; }
+.attribution b { color: var(--green); font-weight: 700; }
+.footer {
+  position: relative; z-index: 2; display: flex; justify-content: space-between; align-items: center;
+  font-size: 28px; letter-spacing: .14em; text-transform: uppercase; color: var(--soft); font-weight: 600;
+}
+.footer img { height: 56px; width: auto; opacity: .95; }
+</style>
+</head>
+<body>
+<div class="slide">
+  <div class="top">{{KICKER}}</div>
+  <div class="body">
+    <div class="mark">“</div>
+    <p class="quote">{{TITLE}}</p>
+    <div class="rule"></div>
+    <p class="attribution">{{BODY}}</p>
+  </div>
+  <div class="footer">
+    <span class="counter">{{COUNTER}}</span>
+    <img src="{{ASSETS_PATH}}/logo-white.svg" alt="SIDMA">
+  </div>
+</div>
+</body>
+</html>

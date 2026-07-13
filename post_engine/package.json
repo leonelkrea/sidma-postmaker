@@ -1,0 +1,13 @@
+{
+  "name": "post-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Motor de render headless para posts SIDMA",
+  "scripts": {
+    "render": "node render.mjs",
+    "install-browser": "npx playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}

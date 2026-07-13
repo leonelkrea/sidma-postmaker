@@ -1,0 +1,51 @@
+{
+  "id": "TEST_01",
+  "status": "pending",
+  "type": "carousel",
+  "campaign": "SIDMA Legal 2026",
+  "pillar": "Educativo",
+  "prompt_origin": "post de prueba para validar el motor",
+  "copy": "El arbitraje comercial no es solo para grandes empresas. Aquí te explicamos cuándo conviene y cómo funciona. #SIDMA #Derecho",
+  "visual_content": [
+    {
+      "slide": 1,
+      "type": "cover",
+      "kicker": "Arbitraje Comercial",
+      "title": "¿Cuándo conviene el arbitraje?",
+      "text": "Más rápido, más privado. Y no es solo para grandes corporaciones."
+    },
+    {
+      "slide": 2,
+      "type": "bullet",
+      "kicker": "Razón",
+      "num": "01",
+      "text": "Resuelves en meses, no en años. El laudo arbitral promedio toma 8 meses frente a 3-5 años en tribunales."
+    },
+    {
+      "slide": 3,
+      "type": "bullet",
+      "kicker": "Razón",
+      "num": "02",
+      "text": "Total confidencialidad. El expediente no es público. Tu reputación y la de la contraparte quedan protegidas."
+    },
+    {
+      "slide": 4,
+      "type": "quote",
+      "kicker": "Perspectiva experta",
+      "title": "El árbitro no impone: las partes eligen quién decide su conflicto.",
+      "text": "Linda Yerena · Directora ejecutiva del CACC"
+    },
+    {
+      "slide": 5,
+      "type": "cta",
+      "kicker": "Aprende a usarlo",
+      "title": "En SIDMA lo practicas.",
+      "url": "experienciasidma.com",
+      "text": "Inscripciones abiertas para SIDMA Legal 2026."
+    }
+  ],
+  "images": [],
+  "feedback": "",
+  "variants": null,
+  "history": []
+}

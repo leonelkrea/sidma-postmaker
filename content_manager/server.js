@@ -6,14 +6,15 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DB_PATH = path.join(__dirname, '..', 'content_memory.json');
+const RENDERS_PATH = path.join(__dirname, '..', 'renders');
 
 const app = express();
 const PORT = 3001;
 
 app.use(cors());
 app.use(express.json());
+app.use('/renders', express.static(RENDERS_PATH));
 
-// Init DB if it doesn't exist
 async function initDB() {
   try {
     await fs.access(DB_PATH);

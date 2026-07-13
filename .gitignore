@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+content_manager/node_modules/
+content_manager/dist/
+
+# Large/Separate projects
+Experiencia-Sidma/
+
+# OS metadata
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Output / generated assets
+renders/
+content_manager/public/A*.png
+
+# Agent session/cache folders
+.claude/
+.impeccable/
+.antigravitycli/
+.agent/
+.codex/

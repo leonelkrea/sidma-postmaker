@@ -1,0 +1,138 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<title>Mediación vs Litigio — SIDMA</title>
+<style>
+  @font-face{font-family:"Luxia Display";src:url("assets/Luxia-Display.otf") format("opentype");font-weight:400 900;font-display:block}
+  @font-face{font-family:"Luxia Regular";src:url("assets/Luxia-Regular.otf") format("opentype");font-display:block}
+  @font-face{font-family:"Montserrat";src:url("assets/Montserrat.ttf") format("truetype");font-weight:100 900;font-display:block}
+
+  :root{
+    --navy:#0C1657;--navy-deep:#080F3D;--green:#00BF90;--teal:#048D7F;--white:#FFFFFF;
+    --soft:rgba(255,255,255,.72);--faint:rgba(255,255,255,.14);--greenline:rgba(0,191,144,.34);
+    --luxia:"Luxia Display","Times New Roman",serif;
+    --mont:"Montserrat",-apple-system,"Segoe UI",sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#000}
+
+  .slide{
+    width:1080px;height:1350px;container-type:inline-size;position:relative;
+    background:
+      radial-gradient(130% 80% at 100% 0%, rgba(0,191,144,.20) 0%, rgba(4,141,127,.05) 34%, transparent 60%),
+      linear-gradient(168deg, var(--navy) 0%, var(--navy-deep) 100%);
+    padding:7cqw 7.5cqw;display:flex;flex-direction:column;
+    color:var(--white);font-family:var(--mont);overflow:hidden;
+  }
+  .slide.cover{
+    background:
+      radial-gradient(120% 60% at 50% 120%, rgba(0,191,144,.45) 0%, rgba(4,141,127,.15) 40%, transparent 68%),
+      linear-gradient(158deg, var(--navy) 8%, var(--navy-deep) 100%);
+  }
+  .slide::before{content:"";position:absolute;inset:4cqw;border:1px solid var(--faint);border-radius:10px;pointer-events:none}
+  .slide::after{content:"";position:absolute;top:4cqw;left:4cqw;width:10cqw;height:3px;background:var(--green)}
+
+  .top{display:flex;justify-content:space-between;align-items:baseline;font-size:2.7cqw;letter-spacing:.22em;text-transform:uppercase;color:var(--soft);font-weight:600;position:relative;z-index:2}
+
+  .body{position:relative;z-index:2;flex:1;display:flex;flex-direction:column;justify-content:center;gap:4cqw}
+
+  .eyebrow{font-size:3cqw;letter-spacing:.26em;text-transform:uppercase;color:var(--green);font-weight:700}
+  h1{font-family:var(--luxia);font-weight:400;font-size:11cqw;line-height:1.03;text-wrap:balance}
+  h2{font-family:var(--luxia);font-weight:400;font-size:8.4cqw;line-height:1.08;text-wrap:balance}
+  .lead{font-size:4cqw;line-height:1.5;color:var(--white);font-weight:400;max-width:60ch}
+  .lead b{color:var(--green);font-weight:700}
+
+  /* portada: placeholder de imagen para Gemini */
+  .cover .body{justify-content:flex-start;gap:5cqw;padding-top:1cqw}
+  .imgph{
+    width:100%;height:50cqw;border:2px dashed var(--greenline);border-radius:14px;
+    background:
+      repeating-linear-gradient(-45deg, rgba(0,191,144,.05) 0 14px, transparent 14px 28px),
+      rgba(255,255,255,.03);
+    display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1.6cqw;text-align:center;
+  }
+  .imgph .ic{font-size:9cqw;line-height:1}
+  .imgph .t1{font-size:3.2cqw;letter-spacing:.2em;text-transform:uppercase;color:var(--green);font-weight:700}
+  .imgph .t2{font-size:2.8cqw;color:var(--soft);font-weight:500;letter-spacing:.04em}
+
+  /* láminas numeradas */
+  .reason .body{gap:2.5cqw}
+  .bignum{font-family:var(--luxia);color:var(--green);font-size:34cqw;line-height:.82;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+  .reason h2{margin-top:1cqw}
+
+  .footer{position:relative;z-index:2;display:flex;justify-content:space-between;align-items:center;font-size:2.6cqw;letter-spacing:.14em;text-transform:uppercase;color:var(--soft);font-weight:600}
+  .footer img{height:5.2cqw;width:auto;opacity:.95}
+
+  .slide{display:none}.slide.show{display:flex}
+</style></head>
+<body>
+
+<!-- PORTADA con placeholder de imagen (Gemini) -->
+<section class="slide cover" data-s="1">
+  <div class="top"><span>Educativo · Mediación</span></div>
+  <div class="body">
+    <div class="imgph">
+      <div class="ic">🖼️</div>
+      <div class="t1">Imagen aquí</div>
+      <div class="t2">Genérala con Gemini y reemplaza este espacio</div>
+    </div>
+    <span class="eyebrow">Resolución de conflictos</span>
+    <h1>5 razones para elegir la mediación antes que litigar</h1>
+  </div>
+  <div class="footer"><span>Desliza →</span><img src="assets/logo-white.svg" alt="SIDMA"></div>
+</section>
+
+<section class="slide reason" data-s="2">
+  <div class="top"><span>Razón 01</span></div>
+  <div class="body">
+    <span class="bignum">01</span>
+    <h2>Preserva la relación entre las partes</h2>
+    <p class="lead">No hay un ganador y un perdedor: se busca un <b>acuerdo que ambas partes puedan sostener</b>. Ideal cuando la relación debe continuar.</p>
+  </div>
+  <div class="footer"><span>Mediación &gt; Litigio</span><img src="assets/logo-white.svg" alt="SIDMA"></div>
+</section>
+
+<section class="slide reason" data-s="3">
+  <div class="top"><span>Razón 02</span></div>
+  <div class="body">
+    <span class="bignum">02</span>
+    <h2>Más rápida y económica</h2>
+    <p class="lead">Un acuerdo puede alcanzarse en <b>semanas, no en años</b>, y con una fracción del costo de un litigio.</p>
+  </div>
+  <div class="footer"><span>Mediación &gt; Litigio</span><img src="assets/logo-white.svg" alt="SIDMA"></div>
+</section>
+
+<section class="slide reason" data-s="4">
+  <div class="top"><span>Razón 03</span></div>
+  <div class="body">
+    <span class="bignum">03</span>
+    <h2>Las partes controlan el resultado</h2>
+    <p class="lead">Nadie impone la decisión: son las <b>propias partes</b> quienes construyen la solución, con ayuda de un mediador neutral.</p>
+  </div>
+  <div class="footer"><span>Mediación &gt; Litigio</span><img src="assets/logo-white.svg" alt="SIDMA"></div>
+</section>
+
+<section class="slide reason" data-s="5">
+  <div class="top"><span>Razón 04</span></div>
+  <div class="body">
+    <span class="bignum">04</span>
+    <h2>Es confidencial</h2>
+    <p class="lead">Lo que se dice en la mediación <b>no se hace público</b> ni se usa en tribunales. La reputación de ambas partes queda protegida.</p>
+  </div>
+  <div class="footer"><span>Mediación &gt; Litigio</span><img src="assets/logo-white.svg" alt="SIDMA"></div>
+</section>
+
+<section class="slide reason" data-s="6">
+  <div class="top"><span>Razón 05</span></div>
+  <div class="body">
+    <span class="bignum">05</span>
+    <h2>Alta tasa de cumplimiento</h2>
+    <p class="lead">Cuando el acuerdo <b>nace de las partes</b>, se cumple de forma voluntaria mucho más que una sentencia impuesta.</p>
+  </div>
+  <div class="footer"><span>En SIDMA lo practicas</span><img src="assets/logo-white.svg" alt="SIDMA"></div>
+</section>
+
+<script>
+  var s=new URLSearchParams(location.search).get('s')||'1';
+  var el=document.querySelector('.slide[data-s="'+s+'"]');
+  if(el)el.classList.add('show');
+</script>
+</body></html>

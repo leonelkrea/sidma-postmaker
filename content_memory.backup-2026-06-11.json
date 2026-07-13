@@ -1,0 +1,317 @@
+[
+  {
+    "id": "A15",
+    "status": "approved",
+    "type": "carousel",
+    "campaign": "SIDMA Tech",
+    "visual_content": [
+      {
+        "slide": 1,
+        "text": "Eres developer? En SIDMA Tech te necesita un abogado. Eres abogado? Te necesita un developer."
+      },
+      {
+        "slide": 2,
+        "text": "SIDMA Tech es un hackathon de innovacion LegalTech. Los equipos deben integrar obligatoriamente al menos un perfil de Derecho y uno de tecnologia."
+      },
+      {
+        "slide": 3,
+        "text": "Porque las mejores soluciones para el sistema legal no las construye solo un abogado ni solo un programador."
+      },
+      {
+        "slide": 4,
+        "text": "Un developer ve el problema tecnico. Un abogado ve el marco legal. Juntos construyen algo que funciona en el mundo real."
+      },
+      {
+        "slide": 5,
+        "text": "SIDMA Tech 2026. Hackathon LegalTech. Inscripciones abren el 1 de junio."
+      }
+    ],
+    "copy": "La tecnología más avanzada falla si no entiende el sistema que intenta mejorar. Y el mejor análisis legal no resuelve un problema si no tiene la tecnología que lo haga funcionar.\n\nSIDMA Tech une las dos visiones en un mismo equipo: por reglamento, cada equipo debe integrar al menos un estudiante de Derecho y uno de Informática o carrera técnica afín.\n\nNo es opcional. Es la condición de participación.\n\nEn LegalTech, la interdisciplinariedad no es una ventaja competitiva. Es el punto de partida.\n\nInscripciones abren el 1 de junio. 💻\n\n#SIDMATech #LegalTech",
+    "feedback": "",
+    "images": [
+      "/A15_slide_1.png",
+      "/A15_slide_2.png",
+      "/A15_slide_3.png",
+      "/A15_slide_4.png",
+      "/A15_slide_5.png"
+    ]
+  },
+  {
+    "id": "A27",
+    "status": "pending",
+    "type": "carousel",
+    "campaign": "SIDMA Legal",
+    "visual_content": [
+      {
+        "slide": 1,
+        "text": "{\"slide\":\"1/6\",\"tipo\":\"portada\",\"canvas\":{\"dimensiones\":\"1080x1080px\",\"relacion\":\"1:1\"},\"fondo\":{\"tipo\":\"solido\",\"color\":\"#0C1657\"},\"etiqueta\":{\"texto\":\"NOTICIAS · ARBITRAJE INTERNACIONAL\",\"fuente\":\"Montserrat SemiBold Uppercase\",\"tamano\":\"11px\",\"color_texto\":\"#0C1657\",\"color_fondo\":\"#00BF90\",\"forma\":\"pill\",\"posicion\":\"top-left margen-40px\"},\"titular\":{\"texto\":\"Un tribunal de Canada revoco un fallo del CIADI. Mexico vuelve a la mesa del arbitraje.\",\"fuente\":\"Luxia Display\",\"tamano\":\"52px\",\"color\":\"#FFFFFF\",\"alineacion\":\"izquierda\",\"posicion\":\"zona-central-izquierda margen-40px\"},\"subtitular\":{\"texto\":\"Caso Oro Negro · Abril 2026\",\"fuente\":\"Montserrat Regular\",\"tamano\":\"14px\",\"color\":\"#00BF90\",\"posicion\":\"bajo-titular espacio-16px\"},\"separador\":{\"tipo\":\"linea-h\",\"color\":\"#00BF90\",\"grosor\":\"3px\",\"ancho\":\"64px\",\"posicion\":\"bajo-subtitular espacio-8px\"},\"grafico\":{\"tipo\":\"watermark-icono\",\"descripcion\":\"balanza de justicia lineal minimalista\",\"color\":\"#00BF90\",\"opacidad\":\"8%\",\"tamano\":\"280px\",\"posicion\":\"bottom-right sin-margen\"},\"pie\":{\"logo\":\"SIDMA Icon Monocolor blanco 28px bottom-left margen-40px\",\"handle\":\"@experienciasidma Montserrat Regular 11px blanco-55%\",\"contador\":\"1/6 Montserrat Regular 11px blanco-45% bottom-right margen-40px\"}}"
+      },
+      {
+        "slide": 2,
+        "text": "{\"slide\":\"2/6\",\"tipo\":\"informacion\",\"canvas\":{\"dimensiones\":\"1080x1080px\",\"relacion\":\"1:1\"},\"fondo\":{\"tipo\":\"solido\",\"color\":\"#0C1657\"},\"etiqueta\":{\"texto\":\"NOTICIAS · ARBITRAJE INTERNACIONAL\",\"fuente\":\"Montserrat SemiBold Uppercase\",\"tamano\":\"11px\",\"color_texto\":\"#0C1657\",\"color_fondo\":\"#00BF90\",\"forma\":\"pill\",\"posicion\":\"top-left margen-40px\"},\"seccion_label\":{\"texto\":\"EL CASO\",\"fuente\":\"Luxia Display\",\"tamano\":\"36px\",\"color\":\"#00BF90\",\"posicion\":\"izquierda margen-40px bajo-etiqueta espacio-16px\"},\"separador\":{\"tipo\":\"linea-h\",\"color\":\"#00BF90\",\"grosor\":\"2px\",\"ancho\":\"48px\",\"posicion\":\"bajo-seccion-label espacio-8px\"},\"cuerpo\":{\"texto\":\"Entre 2013 y 2017, Oro Negro arrendo 5 plataformas de extraccion maritima a Pemex. El contrato collapso y la empresa quedo en quiebra. Sus inversionistas demandaron al Estado mexicano ante el CIADI por mas de 270 millones de dolares, alegando expropiacion indirecta.\",\"fuente\":\"Montserrat Regular\",\"tamano\":\"16px\",\"interlineado\":\"1.6\",\"color\":\"#FFFFFF\",\"ancho_max\":\"920px\",\"posicion\":\"izquierda margen-40px bajo-separador espacio-24px\"},\"grafico\":{\"tipo\":\"watermark-icono\",\"descripcion\":\"plataforma petrolera maritima lineal minimalista\",\"color\":\"#00BF90\",\"opacidad\":\"6%\",\"tamano\":\"240px\",\"posicion\":\"bottom-right sin-margen\"},\"pie\":{\"logo\":\"SIDMA Icon Monocolor blanco 28px bottom-left margen-40px\",\"handle\":\"@experienciasidma Montserrat Regular 11px blanco-55%\",\"contador\":\"2/6 Montserrat Regular 11px blanco-45% bottom-right margen-40px\"}}"
+      },
+      {
+        "slide": 3,
+        "text": "{\"slide\":\"3/6\",\"tipo\":\"informacion\",\"canvas\":{\"dimensiones\":\"1080x1080px\",\"relacion\":\"1:1\"},\"fondo\":{\"tipo\":\"solido\",\"color\":\"#0C1657\"},\"etiqueta\":{\"texto\":\"NOTICIAS · ARBITRAJE INTERNACIONAL\",\"fuente\":\"Montserrat SemiBold Uppercase\",\"tamano\":\"11px\",\"color_texto\":\"#0C1657\",\"color_fondo\":\"#00BF90\",\"forma\":\"pill\",\"posicion\":\"top-left margen-40px\"},\"seccion_label\":{\"texto\":\"EL DESARROLLO\",\"fuente\":\"Luxia Display\",\"tamano\":\"36px\",\"color\":\"#00BF90\",\"posicion\":\"izquierda margen-40px bajo-etiqueta espacio-16px\"},\"separador\":{\"tipo\":\"linea-h\",\"color\":\"#00BF90\",\"grosor\":\"2px\",\"ancho\":\"48px\",\"posicion\":\"bajo-seccion-label espacio-8px\"},\"callout_fecha\":{\"texto\":\"AGOSTO 2024 · CIADI\",\"fuente\":\"Montserrat SemiBold Uppercase\",\"tamano\":\"11px\",\"color\":\"#048D7F\",\"posicion\":\"izquierda margen-40px bajo-separador espacio-24px\"},\"cuerpo\":{\"texto\":\"El CIADI desestimo la demanda por falta de jurisdiccion. Argumento que la doble nacionalidad de los inversionistas y la naturaleza indirecta de las perdidas impedian al tribunal conocer el caso. Mexico celebro la decision.\",\"fuente\":\"Montserrat Regular\",\"tamano\":\"16px\",\"interlineado\":\"1.6\",\"color\":\"#FFFFFF\",\"ancho_max\":\"920px\",\"posicion\":\"izquierda margen-40px bajo-callout espacio-8px\"},\"grafico\":{\"tipo\":\"watermark-icono\",\"descripcion\":\"columnas de edificio legal o escudo institucional lineal\",\"color\":\"#00BF90\",\"opacidad\":\"6%\",\"tamano\":\"240px\",\"posicion\":\"bottom-right sin-margen\"},\"pie\":{\"logo\":\"SIDMA Icon Monocolor blanco 28px bottom-left margen-40px\",\"handle\":\"@experienciasidma Montserrat Regular 11px blanco-55%\",\"contador\":\"3/6 Montserrat Regular 11px blanco-45% bottom-right margen-40px\"}}"
+      },
+      {
+        "slide": 4,
+        "text": "{\"slide\":\"4/6\",\"tipo\":\"informacion\",\"canvas\":{\"dimensiones\":\"1080x1080px\",\"relacion\":\"1:1\"},\"fondo\":{\"tipo\":\"solido\",\"color\":\"#0C1657\"},\"etiqueta\":{\"texto\":\"NOTICIAS · ARBITRAJE INTERNACIONAL\",\"fuente\":\"Montserrat SemiBold Uppercase\",\"tamano\":\"11px\",\"color_texto\":\"#0C1657\",\"color_fondo\":\"#00BF90\",\"forma\":\"pill\",\"posicion\":\"top-left margen-40px\"},\"seccion_label\":{\"texto\":\"EL GIRO\",\"fuente\":\"Luxia Display\",\"tamano\":\"36px\",\"color\":\"#00BF90\",\"posicion\":\"izquierda margen-40px bajo-etiqueta espacio-16px\"},\"separador\":{\"tipo\":\"linea-h\",\"color\":\"#00BF90\",\"grosor\":\"2px\",\"ancho\":\"48px\",\"posicion\":\"bajo-seccion-label espacio-8px\"},\"callout_fecha\":{\"texto\":\"ABRIL 2026 · ONTARIO, CANADA\",\"fuente\":\"Montserrat SemiBold Uppercase\",\"tamano\":\"11px\",\"color\":\"#048D7F\",\"posicion\":\"izquierda margen-40px bajo-separador espacio-24px\"},\"cuerpo\":{\"texto\":\"Los inversionistas apelaron ante la Corte Superior de Justicia de Ontario. El tribunal revoco la decision del CIADI: la doble nacionalidad no es obstaculo y las perdidas califican como expropiacion indirecta bajo el tratado aplicable.\",\"fuente\":\"Montserrat Regular\",\"tamano\":\"16px\",\"interlineado\":\"1.6\",\"color\":\"#FFFFFF\",\"ancho_max\":\"920px\",\"posicion\":\"izquierda margen-40px bajo-callout espacio-8px\"},\"grafico\":{\"tipo\":\"watermark-icono\",\"descripcion\":\"flecha circular de reversal U-turn lineal minimalista\",\"color\":\"#00BF90\",\"opacidad\":\"8%\",\"tamano\":\"240px\",\"posicion\":\"bottom-right sin-margen\"},\"pie\":{\"logo\":\"SIDMA Icon Monocolor blanco 28px bottom-left margen-40px\",\"handle\":\"@experienciasidma Montserrat Regular 11px blanco-55%\",\"contador\":\"4/6 Montserrat Regular 11px blanco-45% bottom-right margen-40px\"}}"
+      },
+      {
+        "slide": 5,
+        "text": "{\"slide\":\"5/6\",\"tipo\":\"resultado\",\"canvas\":{\"dimensiones\":\"1080x1080px\",\"relacion\":\"1:1\"},\"fondo\":{\"tipo\":\"solido\",\"color\":\"#0C1657\"},\"etiqueta\":{\"texto\":\"NOTICIAS · ARBITRAJE INTERNACIONAL\",\"fuente\":\"Montserrat SemiBold Uppercase\",\"tamano\":\"11px\",\"color_texto\":\"#0C1657\",\"color_fondo\":\"#00BF90\",\"forma\":\"pill\",\"posicion\":\"top-left margen-40px\"},\"seccion_label\":{\"texto\":\"EL RESULTADO\",\"fuente\":\"Luxia Display\",\"tamano\":\"36px\",\"color\":\"#00BF90\",\"posicion\":\"izquierda margen-40px bajo-etiqueta espacio-16px\"},\"separador\":{\"tipo\":\"linea-h\",\"color\":\"#00BF90\",\"grosor\":\"2px\",\"ancho\":\"48px\",\"posicion\":\"bajo-seccion-label espacio-8px\"},\"stat_1\":{\"valor\":\"USD 270M\",\"descripcion\":\"reclamacion activa — nuevo proceso arbitral sobre el fondo\",\"fuente_valor\":\"Luxia Display\",\"tamano_valor\":\"56px\",\"color_valor\":\"#00BF90\",\"fuente_desc\":\"Montserrat Regular\",\"tamano_desc\":\"13px\",\"color_desc\":\"#FFFFFF\",\"posicion\":\"izquierda margen-40px bajo-separador espacio-32px\"},\"stat_2\":{\"valor\":\"USD 100K\",\"descripcion\":\"costas procesales ordenadas a Mexico — plazo 30 dias\",\"fuente_valor\":\"Luxia Display\",\"tamano_valor\":\"44px\",\"color_valor\":\"#FFFFFF\",\"fuente_desc\":\"Montserrat Regular\",\"tamano_desc\":\"13px\",\"color_desc\":\"#FFFFFF-70%\",\"posicion\":\"izquierda margen-40px bajo-stat-1 espacio-24px\"},\"grafico\":{\"tipo\":\"watermark-icono\",\"descripcion\":\"mazo de arbitro gavel lineal minimalista\",\"color\":\"#00BF90\",\"opacidad\":\"6%\",\"tamano\":\"240px\",\"posicion\":\"bottom-right sin-margen\"},\"pie\":{\"logo\":\"SIDMA Icon Monocolor blanco 28px bottom-left margen-40px\",\"handle\":\"@experienciasidma Montserrat Regular 11px blanco-55%\",\"contador\":\"5/6 Montserrat Regular 11px blanco-45% bottom-right margen-40px\"}}"
+      },
+      {
+        "slide": 6,
+        "text": "{\"slide\":\"6/6\",\"tipo\":\"cta\",\"canvas\":{\"dimensiones\":\"1080x1080px\",\"relacion\":\"1:1\"},\"fondo\":{\"tipo\":\"gradiente\",\"valor\":\"linear-gradient(160deg, #0C1657 0%, #00BF90 100%)\"},\"etiqueta\":{\"texto\":\"SIDMA LEGAL 2026\",\"fuente\":\"Montserrat SemiBold Uppercase\",\"tamano\":\"11px\",\"color_texto\":\"#0C1657\",\"color_fondo\":\"#FFFFFF\",\"forma\":\"pill\",\"posicion\":\"top-left margen-40px\"},\"titular\":{\"texto\":\"En SIDMA Legal trabajas exactamente estos conceptos.\",\"fuente\":\"Luxia Display\",\"tamano\":\"44px\",\"color\":\"#FFFFFF\",\"alineacion\":\"izquierda\",\"posicion\":\"zona-central-izquierda margen-40px\"},\"cuerpo\":{\"texto\":\"Jurisdiccion. Expropiacion indirecta. Laudos y sus efectos.\",\"fuente\":\"Montserrat Regular Italic\",\"tamano\":\"16px\",\"color\":\"#FFFFFF-80%\",\"posicion\":\"bajo-titular espacio-16px\"},\"separador\":{\"tipo\":\"linea-h\",\"color\":\"#FFFFFF\",\"opacidad\":\"40%\",\"grosor\":\"2px\",\"ancho\":\"64px\",\"posicion\":\"bajo-cuerpo espacio-24px\"},\"cta_texto\":{\"texto\":\"Preinscripcion abierta hasta el 30 de abril\",\"fuente\":\"Montserrat SemiBold\",\"tamano\":\"16px\",\"color\":\"#FFFFFF\",\"posicion\":\"bajo-separador espacio-16px\"},\"url\":{\"texto\":\"experienciasidma.com/inscripcion/\",\"fuente\":\"Montserrat Regular\",\"tamano\":\"14px\",\"color\":\"#FFFFFF-70%\",\"posicion\":\"bajo-cta espacio-8px\"},\"pie\":{\"logo\":\"SIDMA Logo white+color 80px bottom-left margen-40px\",\"handle\":\"@experienciasidma Montserrat Regular 11px blanco-55%\",\"contador\":\"6/6 Montserrat Regular 11px blanco-45% bottom-right margen-40px\"}}"
+      }
+    ],
+    "copy": "La semana pasada, un tribunal de Ontario revocó una decisión del CIADI en el caso Oro Negro — uno de los arbitrajes de inversión más seguidos de los últimos años en la región.\n\nEl conflicto comenzó cuando Oro Negro, empresa que rentaba plataformas de extracción a Pemex, se declaró en quiebra en 2017. Sus inversionistas iniciaron un arbitraje ante el CIADI reclamando más de 270 millones de dólares, argumentando expropiación indirecta.\n\nEn 2024, el CIADI desestimó la demanda por falta de jurisdicción. En abril de 2026, la Corte de Ontario la revocó.\n\nMéxico vuelve a la mesa del arbitraje.\n\n#Arbitraje #SIDMALegal",
+    "feedback": "Fuente: El Diario de Chihuahua, 13 de abril de 2026. https://www.eldiariodechihuahua.mx/economia/2026/apr/13/revocan-fallo-en-favor-de-mexico-por-caso-oro-negro-787588.html",
+    "images": [
+      "/public/A27_slide_1.png",
+      "/public/A27_slide_2.png",
+      "/public/A27_slide_3.png",
+      "/public/A27_slide_4.png",
+      "/public/A27_slide_5.png",
+      "/public/A27_slide_6.png"
+    ]
+  },
+  {
+    "id": "A28",
+    "status": "pending",
+    "type": "carousel",
+    "campaign": "SIDMA Legal",
+    "visual_content": [
+      {
+        "slide": 1,
+        "text": "El sector con mas arbitrajes internacionales del mundo no es el bancario. Es el energetico."
+      },
+      {
+        "slide": 2,
+        "text": "Mas del 25% de los casos registrados ante el CIADI involucran petroleo, gas o mineria. La cifra crece cada ano."
+      },
+      {
+        "slide": 3,
+        "text": "Por que? Los proyectos energeticos son de larga duracion, alta inversion y dependen de marcos regulatorios que pueden cambiar drasticamente."
+      },
+      {
+        "slide": 4,
+        "text": "Cuando un Estado modifica las reglas del juego — impuestos, expropiaciones, regulacion ambiental — el arbitraje internacional define quien asume el costo."
+      },
+      {
+        "slide": 5,
+        "text": "Es uno de los sectores mas exigentes para un abogado de arbitraje. Y uno de los mas estrategicos en la region."
+      },
+      {
+        "slide": 6,
+        "text": "SIDMA Legal 2026. Preinscripcion abierta hasta el 30 de abril. experienciasidma.com/inscripcion/"
+      }
+    ],
+    "copy": "El arbitraje internacional no se reparte por igual entre los sectores económicos. El energético — petróleo, gas, minería — concentra una porción significativa de los casos registrados ante el CIADI cada año.\n\nLa razón es estructural: los proyectos requieren décadas de operación, inversiones de miles de millones de dólares y escenarios regulatorios que pueden cambiar drásticamente. Cuando lo hacen, el arbitraje es el mecanismo donde se decide quién asume las pérdidas.\n\nEs uno de los sectores donde el abogado de arbitraje encuentra más complejidad técnica y más en juego.\n\nPreinscripción SIDMA Legal 2026 abierta hasta el 30 de abril. ⚖️\n\n#SIDMALegal #Arbitraje",
+    "feedback": "IDEA — Teaser indirecto de la temática 2026. No menciona explícitamente que el caso de este año es del sector energético, pero coloca al lector en la conversación.",
+    "images": []
+  },
+  {
+    "id": "A29",
+    "status": "pending",
+    "type": "carousel",
+    "campaign": "SIDMA Legal",
+    "visual_content": [
+      {
+        "slide": 1,
+        "text": "Glosario SIDMA: 5 conceptos del arbitraje en el sector energetico."
+      },
+      {
+        "slide": 2,
+        "text": "1. Contrato de concesion: El acuerdo entre un Estado y una empresa privada que otorga el derecho a explorar y explotar un recurso natural por un tiempo determinado."
+      },
+      {
+        "slide": 3,
+        "text": "2. Clausula de estabilizacion: Disposicion contractual que protege al inversionista frente a cambios regulatorios futuros del Estado anfitrion. Si el Estado modifica las reglas, debe compensar."
+      },
+      {
+        "slide": 4,
+        "text": "3. Expropiacion indirecta: Cuando una medida estatal — un nuevo impuesto, una restriccion operativa, una revocacion de permiso — destruye el valor economico del proyecto sin formalizar una expropiacion directa."
+      },
+      {
+        "slide": 5,
+        "text": "4. Lex petrolea: El cuerpo de practicas, costumbres y precedentes especificos del sector petrolero que los tribunales arbitrales consideran al resolver disputas energeticas."
+      },
+      {
+        "slide": 6,
+        "text": "5. Force majeure energetico: Eventos extraordinarios — embargos, conflictos armados, pandemias — que pueden suspender obligaciones contractuales sin generar responsabilidad."
+      },
+      {
+        "slide": 7,
+        "text": "Conceptos que rara vez aparecen en el pensum. Pero si en la practica. SIDMA Legal 2026."
+      }
+    ],
+    "copy": "El arbitraje energético tiene su propio vocabulario técnico. Términos que un estudiante de Derecho rara vez encuentra antes de su primer caso real, pero que estructuran los conflictos más relevantes del sector.\n\nDominarlos no es opcional cuando el caso involucra exploración, concesiones o regulación de hidrocarburos.\n\nLa práctica empieza por nombrar correctamente lo que tienes en frente.\n\nPreinscripción SIDMA Legal 2026 abierta hasta el 30 de abril. 📖\n\n#GlosarioSIDMA #SIDMALegal",
+    "feedback": "IDEA — Glosario alineado a la temática 2026. Funciona como segundo escalón del teaser: ya estamos hablando del vocabulario del sector, pero sin confirmar que ese sector es la temática del caso.",
+    "images": []
+  },
+  {
+    "id": "A30",
+    "status": "pending",
+    "type": "carousel",
+    "campaign": "SIDMA Tech",
+    "visual_content": [
+      {
+        "slide": 1,
+        "text": "Como se construye una startup LegalTech: del problema al prototipo."
+      },
+      {
+        "slide": 2,
+        "text": "Paso 1. Encuentra un cuello de botella real. No 'algo que se podria mejorar'. Un proceso que un abogado repite 50 veces al mes y que detesta hacer."
+      },
+      {
+        "slide": 3,
+        "text": "Paso 2. Valida con quien sufre el problema. Habla con 10 abogados antes de escribir una linea de codigo. Si pagarian por la solucion, sigue. Si no, vuelve al paso 1."
+      },
+      {
+        "slide": 4,
+        "text": "Paso 3. Define el MVP. La version mas pequena posible que resuelve el cuello de botella. No la version mas completa. La mas util para un solo caso de uso."
+      },
+      {
+        "slide": 5,
+        "text": "Paso 4. Prototipa con herramientas que ya existen. Bubble, Supabase, OpenAI API. Construir desde cero es un error en la fase inicial."
+      },
+      {
+        "slide": 6,
+        "text": "Paso 5. Ponlo en manos de usuarios reales y mide. No esperes el producto perfecto. Espera el feedback que te dira que construir despues."
+      },
+      {
+        "slide": 7,
+        "text": "Estos cinco pasos resumen un fin de semana en SIDMA Tech 2026. Inscripciones abren el 1 de junio."
+      }
+    ],
+    "copy": "El sector legal está lleno de problemas que solo un abogado entiende y solo un developer puede resolver. La intersección es donde nacen las startups LegalTech.\n\nPero construir una solución real en un fin de semana no se trata de tener la idea más ambiciosa. Se trata de identificar el cuello de botella correcto, validarlo con usuarios reales y construir el MVP más pequeño que demuestre el valor.\n\nExactamente la disciplina que un hackathon te obliga a practicar.\n\nSIDMA Tech 2026. Inscripciones abren el 1 de junio. 💻\n\n#SIDMATech #LegalTech",
+    "feedback": "IDEA — Post informativo sobre creación de startups LegalTech. Conecta el método startup (validar, MVP, iterar) con la dinámica del hackathon.",
+    "images": []
+  },
+  {
+    "id": "A31",
+    "status": "pending",
+    "type": "image",
+    "campaign": "SIDMA Legal",
+    "visual_content": [
+      {
+        "slide": 1,
+        "text": "[ARTE INSCRIPCIONES SIDMA LEGAL 2026 — INSTRUCCIONES DE DISEÑO]\nFondo: gradiente vertical Navy #0C1657 → Verde #00BF90\nLogo SIDMA: centrado en la parte superior, version blanca\nTitular principal: 'Inscripciones Abiertas' — tipografia Luxia Display, blanco, tamaño grande\nSubtitulo: 'SIDMA Legal 2026 — Septima Edicion' — Montserrat SemiBold, blanco\nFecha destacada: '4 de mayo — 5 de junio de 2026' — recuadro blanco con texto Navy, visualmente prominente, ancho completo\nEtiqueta de cierre: 'CIERRE 5 DE JUNIO' — pill verde #00BF90 con texto Navy en uppercase, esquina superior derecha\nCuerpo: 'Competencia de arbitraje y mediacion comercial para estudiantes de Derecho, Estudios Internacionales y Administracion'\nCTA: experienciasidma.com/inscripcion/ — Montserrat Regular, blanco, esquina inferior derecha\nLogo CEDCA: esquina inferior izquierda, version blanca\nFormato: cuadrado 1:1 para feed Instagram + version 9:16 para Stories"
+      }
+    ],
+    "copy": "Las inscripciones para SIDMA Legal 2026 ya están abiertas.\n\nDel 4 de mayo al 5 de junio. Una sola ventana al año.\n\nSi eres estudiante de Derecho, Estudios Internacionales o Administración y quieres defender un caso real de arbitraje frente a árbitros profesionales en ejercicio, este es el momento.\n\nLa séptima edición ya tiene caso definido. Se publica el 8 de junio. La inscripción cierra antes.\n\nexperienciasidma.com/inscripcion/ ⚖️\n\n#SIDMALegal #Arbitraje",
+    "feedback": "IDEA — Anuncio principal de apertura de inscripciones. URGENTE: inscripciones ya abiertas (desde 4 may), publicar esta semana. Considerar también versión Stories, boletín CEDCA y reposteos semanales hasta el cierre del 5 de junio.",
+    "images": []
+  },
+  {
+    "id": "A32",
+    "status": "pending",
+    "type": "carousel",
+    "campaign": "SIDMA Legal",
+    "visual_content": [
+      {
+        "slide": 1,
+        "text": "5 preguntas que recibimos antes de cada edicion de SIDMA Legal."
+      },
+      {
+        "slide": 2,
+        "text": "1. ¿Necesito experiencia previa en arbitraje? No. La competencia existe para que aprendas haciendo. Si vas en 3er, 4to o 5to ano de Derecho, ya tienes la base teorica suficiente."
+      },
+      {
+        "slide": 3,
+        "text": "2. ¿Puedo inscribirme solo o necesito equipo? El proceso es por equipo. Minimo 2 integrantes, maximo 4. Si no tienes equipo, te conectamos con otros postulantes."
+      },
+      {
+        "slide": 4,
+        "text": "3. ¿Que carreras pueden participar? Derecho, Estudios Internacionales, Administracion y carreras afines. La interdisciplinariedad suma a la estrategia del caso."
+      },
+      {
+        "slide": 5,
+        "text": "4. ¿Cuanto tiempo requiere? Desde que recibes el caso el 8 de junio hasta las audiencias en octubre, trabajas con tu equipo en paralelo a tus estudios. Es maraton, no sprint."
+      },
+      {
+        "slide": 6,
+        "text": "5. ¿Cuando cierra la inscripcion? El 5 de junio de 2026. Una sola ventana al ano. No hay extension."
+      },
+      {
+        "slide": 7,
+        "text": "Inscripciones abiertas. experienciasidma.com/inscripcion/"
+      }
+    ],
+    "copy": "Antes de inscribirte vale la pena tener claras las dudas más comunes. Cada edición recibimos las mismas preguntas, y la mayoría tiene una respuesta directa.\n\nLa competencia está diseñada para que aprendas haciendo. No necesitas haber participado antes en un arbitraje. No necesitas haber redactado un memorial. Lo que necesitas es un equipo y la disposición de defender un caso real frente a árbitros profesionales en ejercicio.\n\nInscripciones del 4 de mayo al 5 de junio. ⚖️\n\nexperienciasidma.com/inscripcion/\n\n#SIDMALegal #EstudiantesDeDerecho",
+    "feedback": "IDEA — Conversion post para periodo de inscripción. Aborda objeciones reales que detienen a estudiantes. Idealmente publicar mid-window (entre 15 y 25 de mayo) cuando los hesitantes están decidiendo.",
+    "images": []
+  },
+  {
+    "id": "A33",
+    "status": "pending",
+    "type": "image",
+    "campaign": "SIDMA Tech",
+    "visual_content": [
+      {
+        "slide": 1,
+        "text": "[ARTE SAVE THE DATE SIDMA TECH 2026 — INSTRUCCIONES DE DISEÑO]\nFondo: Negro profundo #0A0A0A con particulas de codigo (0s y 1s o fragmentos de articulos de ley) sutiles. Gradiente Navy #0C1657 en los bordes\nLogo SIDMA Tech: centrado superior, version blanca\nTitular principal: 'Save the Date' — Luxia Display, blanco grande\nSubtitulo: 'SIDMA Tech 2026 — Tercera Edicion' — Montserrat SemiBold, verde #00BF90\nEslogan: 'Hackathon LegalTech' — Montserrat Light, blanco-70%\n\nBloque de fechas (lista vertical bien espaciada con icono lineal verde a la izquierda de cada item):\n  • INSCRIPCIONES — 1 al 12 de junio\n  • KICKOFF — 19 de junio\n  • PRESENTACION FINAL — 10 de julio\n  • PREMIACION — 30 de julio\nEtiquetas en Montserrat SemiBold uppercase 11px, fechas en Montserrat Regular 16px blanco\n\nElemento decorativo: linea diagonal verde #00BF90 separando titulo del bloque de fechas\nCTA: experienciasidma.com — esquina inferior derecha, Montserrat Regular verde\nLogos: CEDCA + VenAmCham inferior alineados horizontalmente, monocromaticos blancos, separados por barra vertical sutil\nFormato: 1:1 para feed + 9:16 para Stories"
+      }
+    ],
+    "copy": "SIDMA Tech 2026 confirma su tercera edición.\n\nGuarda las fechas:\n📅 Inscripciones: 1 al 12 de junio\n💻 Kickoff: 19 de junio\n🚀 Presentación final: 10 de julio\n🏆 Premiación: 30 de julio\n\nEl hackathon de innovación LegalTech organizado por CEDCA y VenAmCham. Equipos de 2 a 4 personas con al menos un perfil de Derecho y uno de tecnología.\n\nEl reto se anuncia en el Kickoff.\n\n#SIDMATech #LegalTech #Hackathon",
+    "feedback": "IDEA — Save the Date para construir audiencia antes del 1 de junio (apertura de inscripciones). Faltan ~26 días. Recomendado publicar esta semana y reforzar en Stories cada semana hasta el 1 de junio.",
+    "images": []
+  },
+  {
+    "id": "A34",
+    "status": "pending",
+    "type": "carousel",
+    "campaign": "SIDMA Tech",
+    "visual_content": [
+      {
+        "slide": 1,
+        "text": "El equipo perfecto para un hackathon LegalTech tiene estos cinco roles."
+      },
+      {
+        "slide": 2,
+        "text": "1. Estratega legal. El abogado que define que problema vale la pena resolver. Conoce el cuello de botella desde adentro y traduce derecho a requerimientos tecnicos."
+      },
+      {
+        "slide": 3,
+        "text": "2. Developer full-stack. Levanta el prototipo en horas. Domina herramientas low-code y APIs para no perder tiempo construyendo desde cero."
+      },
+      {
+        "slide": 4,
+        "text": "3. Especialista en datos o IA. Estructura la informacion, integra modelos de lenguaje y entrena la logica que le da inteligencia al producto."
+      },
+      {
+        "slide": 5,
+        "text": "4. Disenador de producto. Hace que el flujo sea usable para un abogado, no para otro developer. Sin esto, la solucion tecnica no se adopta."
+      },
+      {
+        "slide": 6,
+        "text": "5. Storyteller. El que presenta. La diferencia entre ganar y quedarse cerca casi siempre esta en como explicas tu solucion en cinco minutos frente al jurado."
+      },
+      {
+        "slide": 7,
+        "text": "Equipos de 2 a 4 personas. No necesitas las cinco personas, necesitas que alguien cubra cada funcion. Inscripciones SIDMA Tech: 1 de junio."
+      }
+    ],
+    "copy": "Un hackathon de 48 horas no se gana con la idea más sofisticada. Se gana con un equipo que cubre todas las funciones críticas: el que entiende el problema legal, el que construye el prototipo, el que diseña la experiencia y el que cuenta la historia.\n\nEn SIDMA Tech los equipos son de 2 a 4 personas. El reglamento exige al menos un perfil de Derecho y uno de tecnología. El resto lo decides tú.\n\nReúne tu equipo antes de que abran las inscripciones. El 1 de junio empieza la cuenta regresiva.\n\n#SIDMATech #LegalTech",
+    "feedback": "IDEA — Pre-inscripción content para que potenciales participantes empiecen a armar equipo antes del 1 de junio. Combina información práctica (los roles) con el CTA de armar el equipo ya.",
+    "images": []
+  },
+  {
+    "id": "A35",
+    "status": "pending",
+    "type": "image",
+    "campaign": "SIDMA Legal",
+    "visual_content": [
+      {
+        "slide": 1,
+        "text": "[ARTE BUSCA-LA-TEMATICA SIDMA 2026 — INSTRUCCIONES DE DISEÑO]\n\nESTILO Y FORMATO\nIlustracion plana detallada en estilo Where's Wally / Donde esta Wally — alta densidad de elementos, personajes pequeños, props identificables. Perspectiva isometrica 3/4 (vista aerea ligeramente inclinada) de un salon de convenciones internacional. Trazo limpio, paleta saturada pero coherente con la marca SIDMA. Cada stand debe ser legible a primera vista pero recompensar la observacion detallada (props pequeños dentro de cada stand). Nivel de detalle objetivo: el lector debe poder pasar 30-60 segundos explorando antes de identificar la respuesta.\nFormato: 1080x1080 px (1:1) para feed. Adaptar tambien a 4:5 (1080x1350) para Instagram principal y 9:16 para Stories.\n\nESCENARIO GENERAL\nUn pabellon expositor llamado 'INTERNATIONAL ARBITRATION EXPO 2026' — banner gigante en la parte superior central de la imagen, tipografia Luxia Display blanca sobre fondo Navy #0C1657, con un sub-banner verde #00BF90 que diga 'Encuentra la tematica del caso · SIDMA Legal 2026' en Montserrat SemiBold uppercase.\nPiso en patron de cuadricula sutil color gris claro #EEEEEE con lineas Navy muy tenues.\nParedes de fondo Navy #0C1657 con detalles arquitectonicos de pabellon (vigas blancas, focos colgantes, ventanales estilizados).\nAtmosfera: brillante, vibrante, con personas circulando — credenciales colgando del cuello, maletines, cafes en mano. Aproximadamente 40-60 figuras humanas pequeñas distribuidas, vestidas semi-formal de negocios.\n\nDISTRIBUCION DE LOS 13 STANDS\nLos stands se distribuyen en una cuadricula de 4 filas. La fila 3 concentra los stands del sector energetico (esto es deliberado: el petroleo se camufla entre los demas energeticos). El resto se distribuye en las filas 1, 2 y 4.\n\n— FILA 1 (parte superior, bajo el banner principal) —\n\n1. STAND CINE (2023)\nTechado tipo carpa con bombillos amarillos enmarcando el frente. Alfombra roja saliendo del stand. Claqueta gigante apoyada en una esquina. Carrete de pelicula colgante. Foco de set Fresnel sobre tripode. Una persona sostiene un microfono frente a otra. Banner superior: 'ASOCIACION CINEMATOGRAFICA INTERNACIONAL' en blanco sobre rojo bordo. Trofeo dorado tipo estatuilla en la mesa.\n\n2. STAND MODA (2022)\nMini-pasarela de 2 metros con foco cenital. Dos maniquies — uno con vestido fucsia largo, otro con traje monocromatico negro. Espejo de cuerpo entero a la izquierda. Estante con percheros y telas colgando (rosa, dorado, blanco). Banner superior: 'FEDERACION INTERNACIONAL DE DISEÑO DE MODA' en negro sobre rosa palido. Una modelo en pose, una persona tomando fotos.\n\n3. STAND PROPIEDAD INTELECTUAL (2021)\nSimbolos © ® ™ flotantes decorativos sobre el techo del stand. Maquina de escribir vintage en la mesa. Patentes enmarcadas en la pared trasera (con dibujos tecnicos visibles en miniatura). Pila de libros de leyes encuadernados en cuero. Banner superior: 'CAMARA DE PROPIEDAD INTELECTUAL' en blanco sobre marron oscuro. Una persona revisando documentos con lupa.\n\n4. STAND TELECOMUNICACIONES (distractor)\nAntena parabolica miniatura sobre el techo. Smartphone gigante de 1 metro como stand decorativo. Cables de fibra optica luminosos azules serpenteando. Pantalla con grafico de cobertura. Banner superior: 'FORO TELECOM GLOBAL' en blanco sobre celeste. Dos personas conversando con auriculares.\n\n— FILA 2 (segunda fila, centro alto) —\n\n5. STAND DEPORTIVO (2020)\nBalones de futbol, basket y tenis apilados en una esquina. Pasto sintetico cubriendo el suelo del stand. Dos trofeos plateados. Pantalla de TV mostrando una jugada deportiva. Raqueta de tenis colgada. Banner superior: 'COMITE DEPORTIVO INTERNACIONAL' en blanco sobre verde grama. Una persona con silbato, otra con uniforme deportivo.\n\n6. STAND CONSTRUCCION (2024)\nCascos amarillos colgados en una pared. Plano arquitectonico extendido sobre la mesa con escuadras y reglas. Mini-grua amarilla de juguete pero detallada. Pila de ladrillos rojos. Andamio metalico al lado. Banner superior: 'CAMARA VENEZOLANA DE LA CONSTRUCCION' en negro sobre amarillo. Una persona con casco senalando el plano.\n\n7. STAND FARMACEUTICO (distractor)\nFrasco de medicamento gigante de 1 metro como decoracion central. Cruz medica blanca sobre fondo verde palido. Tabletas y pildoras flotantes ilustradas alrededor. Microscopio en la mesa. Banner superior: 'ASOCIACION FARMACEUTICA INTERNACIONAL' en blanco sobre verde menta. Dos personas en bata blanca conversando.\n\n8. STAND AGROINDUSTRIAL (distractor)\nSacos de yute con espigas saliendo. Tractor miniatura rojo. Plantas en macetas formando un mini-jardin. Espiga de trigo gigante decorativa. Banner superior: 'CAMARA AGROINDUSTRIAL' en blanco sobre marron tierra. Una persona con sombrero de paja, otra revisando un saco.\n\n— FILA 3 (CLUSTER ENERGETICO — aqui se camufla el petroleo) —\n\nNota critica: los 5 stands de esta fila comparten estetica industrial similar (tubos, cascos, infraestructura) para que el ojo no salte directamente al de petroleo. Mantener proporcion visual equivalente — ninguno debe ser mas grande ni mas brillante que los demas.\n\n9. STAND ENERGIA EOLICA (distractor)\nTres molinos de viento miniatura de 1.5 metros con palas que parecen girar (lineas de movimiento). Banderines blancos ondeando. Cielo pintado al fondo del stand con nubes. Maqueta de campo eolico. Banner superior: 'CUMBRE EOLICA INTERNACIONAL' en blanco sobre azul cielo. Una persona con tablet midiendo viento.\n\n10. STAND ENERGIA SOLAR (distractor)\nPanel solar negro brillante de 1 metro inclinado en la mesa. Sol decorativo dorado colgando del techo. Maqueta de techo residencial con paneles. Mini-baterias amarillas apiladas. Banner superior: 'ENERGIA SOLAR LATAM' en negro sobre amarillo solar. Una persona con gafas de seguridad explicando un panel.\n\n11. STAND PETROLEO (2026 — LA RESPUESTA)\nIMPORTANTE: este stand debe estar visualmente integrado al cluster energetico, sin destacar mas que sus vecinos. NO usar elementos extra-llamativos ni colores especialmente saturados. El nivel de detalle es similar al de los demas energeticos.\nMini-plataforma petrolera maritima de 60 cm modelada en metal gris (4 patas, torre central con perforadora). Tres barriles negros estilo industriales con marca generica apilados detras. Tubos plateados serpenteando bajo la mesa. Mapa estilizado del Caribe con puntos de extraccion en la pared trasera. Casco rojo de operario sobre la mesa, junto a un par de guantes industriales. Banner superior: 'CAMARA DE HIDROCARBUROS' en blanco sobre Navy #0C1657 — usar el mismo Navy de la marca SIDMA, esto es lo unico que un ojo entrenado podria notar como 'guiño' al codigo de marca, pero sin ser obvio. Una persona con casco rojo revisando un manometro, otra firmando un contrato sobre la mesa.\n\n12. STAND HIDROELECTRICA (distractor)\nMaqueta de presa hidroelectrica de 1 metro con agua azul translucida fluyendo (efecto pintado). Turbina metalica decorativa. Poster gigante de represa real al fondo. Mini-rio serpenteando por el piso del stand. Banner superior: 'ASOCIACION HIDROELECTRICA' en blanco sobre azul marino. Una persona con plano hidraulico.\n\n13. STAND GAS NATURAL (distractor)\nTuberias plateadas curvas decorativas. Llama estilizada azul-naranja en alto relieve. Maqueta de planta de licuefaccion. Valvulas industriales. Banner superior: 'CAMARA DE GAS NATURAL' en blanco sobre azul electrico. Una persona con casco azul revisando una valvula.\n\n— FILA 4 (parte inferior, primer plano cerca de entrada) —\n\n14. STAND DERECHO MARITIMO (2025) — STAND HERO inferior izquierda\nAncla decorativa grande apoyada al lado del stand. Timon de barco gigante. Mapas nauticos colgados con rutas trazadas. Faro pequeño iluminado. Modelo a escala de buque mercante de 1.2 metros. Red de pesca decorativa colgando. Banner superior: 'LIGA MARITIMA INTERNACIONAL' en blanco sobre azul marino oscuro. Tres personas vestidas estilo capitan / oficial naval.\n\n— ELEMENTOS DE AMBIENTACION (distribuidos por toda la imagen) —\n\nMostrador de registro / acreditacion en la entrada inferior derecha — dos recepcionistas, fila de 4-5 personas esperando con maletines. Banner pequeño: 'REGISTRO · CREDENCIALES'.\nQuiosco de cafe en una esquina con personas haciendo cola.\nGlobo aerostatico flotante o dirigible decorativo cruzando la parte superior con texto 'CEDCA · ARBITRAJE COMERCIAL' en pequeño.\nPersonas circulando entre stands (mezcla de trajes formales, smart-casual, algunas con laptop bajo el brazo, otras tomando fotos con celular).\nUna o dos personas perdidas mirando un mapa del pabellon.\nUn perro de servicio acompañando a una persona (detalle de busqueda extra).\nUna camara de TV con cable amarillo grabando uno de los stands para sumar profundidad narrativa.\n\nGUIÑOS DE MARCA SIDMA (sutiles, no centrales)\n— Logo SIDMA monocromo blanco pequeño en una esquina inferior, casi imperceptible, junto a 'experienciasidma.com'.\n— Una persona en el cluster energetico carga una carpeta con la balanza de SIDMA estampada.\n— En el banner principal del expo, en letras chicas tipo creditos: 'Una iniciativa CEDCA · Caracas 2026'.\n\nPALETA GLOBAL\nFondo escenario: Navy #0C1657 (paredes), gris claro #EEEEEE (piso).\nAcentos marca: Verde #00BF90 (banners institucionales y elementos SIDMA).\nLos colores de cada stand son los descritos arriba — saturados pero no fluorescentes.\n\nINSTRUCCION PARA EL ILUSTRADOR\nLa imagen debe funcionar como un puzzle visual. El stand de petroleo NO debe ser el primero que el ojo encuentra. La pista esta en el banner Navy del stand 11 ('Camara de Hidrocarburos'), pero solo es decisiva si el observador ya esta sospechando del cluster energetico. El objetivo es que el lector pase entre 30 y 90 segundos explorando antes de identificarlo y luego sienta la satisfaccion del 'lo encontre'."
+      }
+    ],
+    "copy": "Imagina la convención de arbitraje más activa del año.\n\nCada stand representa un sector que llega a la mesa del arbitraje internacional con sus propios conflictos, sus propios contratos y su propio vocabulario.\n\nReconoces seis. Son las temáticas de SIDMA Legal de las ediciones anteriores: deportivo, propiedad intelectual, moda, cine, construcción y derecho marítimo.\n\nLa séptima está ahí también. Es la temática del caso 2026.\n\nEl resto son distractores.\n\n¿Eres capaz de encontrarla? 🔍\n\nDéjanos en los comentarios cuál crees que es. El caso se publica el 8 de junio. ⚖️\n\nInscripciones abiertas hasta el 5 de junio.\nexperienciasidma.com/inscripcion/\n\n#SIDMALegal #Arbitraje #BuscaLaTematica",
+    "feedback": "IDEA — Post tipo puzzle 'Where's Wally' para generar engagement masivo en comentarios durante la ventana de inscripción. Crítico: el stand de petróleo NO debe destacar — debe estar visualmente integrado al cluster energético junto con solar, hidroeléctrica, eólica y gas natural. La misma persona que comente la respuesta correcta puede ser invitada al kickoff o reposteada cuando se anuncie el caso el 8 de junio.",
+    "images": []
+  }
+]

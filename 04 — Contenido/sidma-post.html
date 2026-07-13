@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<style>
+  @font-face {
+    font-family: 'Luxia Display';
+    src: url('/Volumes/ARC Reactor/Code Projects SSD/Borrar/social-media-manager/Style/fonts/Luxia-Display.otf') format('opentype');
+  }
+  @font-face {
+    font-family: 'Montserrat';
+    src: url('/Volumes/ARC Reactor/Code Projects SSD/Borrar/social-media-manager/Style/fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+  }
+  @font-face {
+    font-family: 'Montserrat';
+    src: url('/Volumes/ARC Reactor/Code Projects SSD/Borrar/social-media-manager/Style/fonts/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: italic;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1350px; overflow: hidden; }
+
+  .card {
+    width: 1080px;
+    height: 1350px;
+    position: relative;
+    background: #0C1657;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .circle { position: absolute; border-radius: 50%; }
+  .c1 { width: 560px; height: 560px; top: -190px; left: -180px; background: #00BF90; opacity: 0.10; }
+  .c2 { width: 360px; height: 360px; top: -90px; right: -110px; background: #048D7F; opacity: 0.07; }
+  .c3 { width: 620px; height: 620px; bottom: -230px; right: -200px; background: #00BF90; opacity: 0.09; }
+  .c4 { width: 290px; height: 290px; bottom: -70px; left: -80px; background: #048D7F; opacity: 0.07; }
+
+  .top-line {
+    width: 100%; height: 6px;
+    background: linear-gradient(to right, #0C1657, #00BF90, #0C1657);
+    flex-shrink: 0;
+  }
+
+  .logo-area {
+    margin-top: 68px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+    flex-shrink: 0;
+  }
+  .logo-area img { height: 94px; width: auto; }
+  .tagline {
+    margin-top: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #00BF90;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    opacity: 0.85;
+  }
+  .logo-divider {
+    width: 80px; height: 2px;
+    background: #00BF90;
+    margin-top: 32px;
+    opacity: 0.45;
+    z-index: 2;
+    flex-shrink: 0;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+    margin-top: 56px;
+    padding: 0 48px;
+    flex-shrink: 0;
+    min-height: 0;
+  }
+
+  .column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 36px;
+  }
+
+  .vertical-divider {
+    width: 2px;
+    flex-shrink: 0;
+    background: linear-gradient(to bottom, transparent, #00BF90 15%, #00BF90 85%, transparent);
+    opacity: 0.55;
+    margin: 0 4px;
+  }
+
+  .badge {
+    background: linear-gradient(140deg, #00BF90 0%, #048D7F 100%);
+    border-radius: 20px;
+    padding: 24px 32px;
+    text-align: center;
+    width: 100%;
+    box-shadow: 0 8px 32px rgba(0, 191, 144, 0.22);
+    flex-shrink: 0;
+  }
+  .badge-label {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    color: rgba(255,255,255,0.82);
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .badge-name {
+    font-family: 'Luxia Display', 'Montserrat', sans-serif;
+    font-size: 42px;
+    color: #FFFFFF;
+    line-height: 1.05;
+  }
+
+  .col-text {
+    margin-top: 44px;
+    text-align: center;
+    padding: 0 4px;
+    flex: 1;
+  }
+
+  .col-millennials .col-text p {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 1.68;
+    color: #FFFFFF;
+    opacity: 0.92;
+  }
+
+  .col-genz .emoji-line {
+    font-size: 58px;
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+    line-height: 1;
+  }
+  .col-genz .highlight {
+    font-family: 'Luxia Display', 'Montserrat', sans-serif;
+    font-size: 46px;
+    color: #00BF90;
+    line-height: 1.15;
+  }
+
+  /* CTA section */
+  .cta-section {
+    margin-top: 72px;
+    width: 100%; padding: 0 64px;
+    position: relative; z-index: 2;
+    flex: 1;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+  }
+  .cta-rule {
+    width: 100%; height: 1px;
+    background: linear-gradient(to right, transparent, rgba(0,191,144,0.5), transparent);
+    margin-bottom: 48px;
+  }
+  .cta-box {
+    background: rgba(0,191,144,0.10);
+    border: 1.5px solid rgba(0,191,144,0.35);
+    border-radius: 22px;
+    padding: 36px 52px;
+    text-align: center; width: 100%;
+  }
+  .cta-label {
+    font-family: 'Montserrat', sans-serif; font-weight: 400;
+    font-size: 18px; color: rgba(255,255,255,0.55);
+    letter-spacing: 2.5px; text-transform: uppercase; margin-bottom: 14px;
+  }
+  .cta-main {
+    font-family: 'Luxia Display', 'Montserrat', sans-serif;
+    font-size: 38px; color: #FFFFFF; line-height: 1.15; margin-bottom: 14px;
+  }
+  .cta-sub {
+    font-family: 'Montserrat', sans-serif; font-weight: 500;
+    font-size: 20px; color: #00BF90;
+  }
+
+  .bottom-area {
+    padding-bottom: 60px;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    flex-shrink: 0;
+  }
+  .bottom-line { width: 80px; height: 2px; background: #00BF90; opacity: 0.35; }
+  .bottom-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(255,255,255,0.45);
+    letter-spacing: 3.5px;
+    text-transform: uppercase;
+  }
+  .instagram-handle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #00BF90;
+    letter-spacing: 1px;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="circle c1"></div>
+  <div class="circle c2"></div>
+  <div class="circle c3"></div>
+  <div class="circle c4"></div>
+
+  <div class="top-line"></div>
+
+  <div class="logo-area">
+    <img src="/Volumes/ARC Reactor/Code Projects SSD/Borrar/social-media-manager/Style/graphics/Logo white + Color.svg" alt="SIDMA">
+    <div class="tagline">7ª Edición · 2026</div>
+  </div>
+
+  <div class="logo-divider"></div>
+
+  <div class="content">
+    <div class="column col-millennials">
+      <div class="badge">
+        <div class="badge-label">Equipo</div>
+        <div class="badge-name">MILLENIAL</div>
+      </div>
+      <div class="col-text">
+        <p>Una competencia que fortalece tus habilidades de investigación, oratoria y debate.</p>
+      </div>
+    </div>
+
+    <div class="vertical-divider"></div>
+
+    <div class="column col-genz">
+      <div class="badge">
+        <div class="badge-label">Equipo</div>
+        <div class="badge-name">GEN Z</div>
+      </div>
+      <div class="col-text">
+        <span class="emoji-line">💙</span>
+        <p class="highlight">la mejor experiencia del mundo</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta-section">
+    <div class="cta-rule"></div>
+    <div class="cta-box">
+      <div class="cta-label">Inscripciones abiertas</div>
+      <div class="cta-main">Sin importar tu generación,<br>el caso te espera.</div>
+      <div class="cta-sub">experienciasidma.com/inscripcion</div>
+    </div>
+  </div>
+
+  <div class="bottom-area">
+    <div class="bottom-line"></div>
+    <div class="bottom-text">SIDMA 2026</div>
+    <div class="instagram-handle">@experienciasidma</div>
+  </div>
+</div>
+</body>
+</html>

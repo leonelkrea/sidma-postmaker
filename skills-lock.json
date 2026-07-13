@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "news-search": {
+      "source": "brave/brave-search-skills",
+      "sourceType": "github",
+      "skillPath": "skills/news-search/SKILL.md",
+      "computedHash": "38ed8fa771c2958f56b4c7dbffdf9ab0808036a173ad2c6949d668ecdb0dcaf8"
+    }
+  }
+}

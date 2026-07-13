@@ -1,0 +1,12 @@
+{
+  "useMarkdownLinks": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "05 — Recursos/Adjuntos",
+  "showUnsupportedFiles": false,
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false
+}
